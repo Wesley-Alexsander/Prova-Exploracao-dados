@@ -1,7 +1,5 @@
 # Analise-exploratoria
 
-## Introdução
-
 Neste trabalho, escolhemos explorar a base de dados de crimes cometidos na cidade de São Paulo, fornecida por órgãos de segurança pública. A base de dados contém informações detalhadas sobre boletins de ocorrência registrados na cidade, incluindo a natureza do crime, a data e hora da ocorrência, a localização, e outras informações relevantes.
 
 São Paulo, sendo a maior cidade do Brasil e uma das maiores metrópoles do mundo, enfrenta desafios significativos relacionados à criminalidade devido à sua vasta população e complexidade urbana. A análise desses dados é essencial para entender as dinâmicas e padrões dos crimes que ocorrem na cidade, oferecendo insights valiosos para a segurança pública e a qualidade de vida dos seus habitantes.
@@ -17,7 +15,7 @@ A análise dos dados criminais é fundamental por várias razões. Primeiramente
 
 Portanto, a importância deste estudo reside não apenas na sua contribuição para a segurança pública, mas também na sua capacidade de influenciar políticas sociais e econômicas, visando um ambiente urbano mais seguro e equitativo para todos os cidadãos de São Paulo.
 
-Por que decidimos estudar esses dados/problema?
+## Por que decidimos estudar esses dados/problema?
 Escolhemos estudar a base de dados de crimes cometidos na cidade de São Paulo devido ao seu impacto direto sobre a segurança e o bem-estar dos habitantes da cidade. São Paulo, como um dos maiores centros urbanos do hemisfério sul, apresenta desafios únicos relacionados à segurança pública que se manifestam através de diversas formas de criminalidade. Entender esses padrões não é apenas uma questão de segurança pública, mas também de desenvolvimento social e econômico. Além disso, a cidade tem uma cobertura significativa de dados, o que permite uma análise detalhada e o desenvolvimento de intervenções baseadas em evidências.
 
 ## Por que ele é importante?
