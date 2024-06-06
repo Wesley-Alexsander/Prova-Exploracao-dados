@@ -57,7 +57,7 @@ st.write('-'*10)
 st.subheader("Análises:")
 
 st.write("""No gráfico de pizza, observa-se que 2023 foi o ano com maior quantidade de crimes registrados, representando 44.3% das ocorrências. Já 2022 contou com 42% dos crimes
-, enquanto 2024, até agora, apresenta a menor porcentagem com 13.7%, pois não contem a relação completa de mesês comos os outros anos, mas mostra um comportamento bem interessate.""")
+, enquanto 2024, até agora, apresenta a menor porcentagem com 13.7% pois não está com todos os meses de referência, mas ainda sim apresenta caracteristicas muito interessantes.""")
 
 # Crimes por anos
 crimes_anos = DadosCriminais.groupby('ANO_BO').size().reset_index(name='QTD')
